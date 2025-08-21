@@ -28,7 +28,7 @@ datetime → para registrar fecha y hora de cada consulta
 
 Clonar el repositorio:
 
-git clone https://github.com/tuusuario/crypto-quotator.git
+git clone https://github.com/githyb1141969182/crypto-quotator.git
 cd crypto-quotator
 
 
