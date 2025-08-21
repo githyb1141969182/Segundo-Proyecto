@@ -26,11 +26,7 @@ datetime → para registrar fecha y hora de cada consulta
 
  Instalación
 
-Clonar el repositorio:
-
-git clone https://github.com/githyb1141969182/Segundo-Proyecto/crypto-quotator.git
-cd crypto-quotator
-
+Clonar el repositorio
 
 Instalar dependencias:
 
