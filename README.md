@@ -16,7 +16,7 @@ Ideal para aprender a trabajar con APIs, procesar datos en Python y guardar info
 
  Tecnologías utilizadas
 
-Python 3.x
+Python 3.13.3
 
 requests → para hacer peticiones HTTP a la API
 
